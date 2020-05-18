@@ -6,9 +6,9 @@ The files in this repository were used to configure the network depicted below.
 
 [Red Team Network Diagram](https://drive.google.com/file/d/1kEkQKz0jB6I3B3TRU2ZTWuarMO4ZYv7k/view?usp=sharing)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the  file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+[Configuration & Playbook Files](https://github.com/will8791/Will_Bearss_Elk_Stack_Project/tree/master/Ansible)
 
 This document contains the following details:
 - Description of the Topologu
